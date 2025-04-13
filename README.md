@@ -1,0 +1,1 @@
+This was a small project made within a few hours using Swift. First time coding in Swift and was quite interesting to make. I quite enjoyed learning about inheritance. Project provided by code academy.
